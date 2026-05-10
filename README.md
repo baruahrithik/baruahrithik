@@ -2,7 +2,7 @@
  
 I work at the intersection of **medical imaging** and **generative AI**.
  
-I recently completed my MSc at the Technical University of Munich, where my thesis at the Chair of Biomedical Physics focused on unconditional synthesis of CTPA images using latent diffusion models, with privacy-preserving anonymization through inpainting and outpainting.
+I recently completed my MSc at the Technical University of Munich, where my thesis at the Chair of Biomedical Physics focused on the synthesis of CTPA images using **latent diffusion models**, with privacy-preserving anonymization through inpainting and outpainting.
  
 I'm currently looking for **PhD positions** in medical imaging and generative modeling in Germany, and am open to ML/DL engineering roles in Europe.
  
