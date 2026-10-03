@@ -1,10 +1,13 @@
 # Hi, I'm Hrithik
  
-I work at the intersection of **medical imaging** and **generative AI**.
- 
-I recently completed my MSc at the Technical University of Munich, where my thesis at the Chair of Biomedical Physics focused on the synthesis of CTPA images using **latent diffusion models**, with privacy-preserving anonymization through inpainting and outpainting.
- 
-I'm currently looking for **PhD positions** in medical imaging and generative modeling in Germany, and am open to ML/DL engineering roles in Europe.
+
+I work at the intersection of **machine learning**, **data** and **imaging**.
+
+I completed my MSc in Physics at the Technical University of Munich, where my thesis at the Chair of Biomedical Physics focused on synthesising CTPA images with **latent diffusion models**, including privacy-preserving anonymisation through inpainting and outpainting.
+
+I enjoy turning complex data into clear, useful results, whether in research, engineering or applied analytics.
+
+
  
 ---
  
