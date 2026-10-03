@@ -20,7 +20,8 @@ I enjoy turning complex data into clear, useful results, whether in research, en
 - **MSc Thesis (2025):** *Synthesis of Artificial Medical X-ray CT Images through Generative Models* — TUM Chair of Biomedical Physics (Prof. Pfeiffer). [Listed at E17 →](https://www.ph.nat.tum.de/e17/publications/thesis-projects/)
 ### Interests
  
-Diffusion models · Medical image synthesis · Privacy-preserving AI · CT imaging · Reproducible research
+Machine learning · Data analytics · Diffusion models · Medical imaging · Privacy-preserving AI · Reproducible research
+
  
 ### Contact
  
